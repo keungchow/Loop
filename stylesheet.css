@@ -1,10 +1,7 @@
 @font-face {
     font-family: 'Breeze Sans';
-    src: url('Breeze.ttf') format('truetype');
-    font-weight: normal;
     font-style: normal;
-}
-body {
-    font-family: 'Breeze Sans';
-    font-size: 63px
+    font-weight: 400;
+    font-display: swap;
+    src: local('Breeze.ttf') format('truetype');
 }
