@@ -3,5 +3,5 @@
     font-style: normal;
     font-weight: 400;
     font-display: swap;
-    src: local('Breeze.ttf') format('truetype');
+    src: url('https://raw.githubusercontent.com/keungchow/loop/master/Breeze.ttf') format('truetype');
 }
