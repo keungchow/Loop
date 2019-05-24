@@ -1,6 +1,5 @@
 @font-face {
     font-family: 'Breeze Sans';
-    font-style: normal;
-    font-weight: 400;
-    src: url('https://raw.githubusercontent.com/keungchow/loop/master/Breeze.ttf') format('truetype');
+    font-display: swap;
+    src: url('https://raw.githubusercontent.com/keungchow/loop/master/BreezeSans-Regular.ttf') format('truetype');
 }
