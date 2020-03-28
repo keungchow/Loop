@@ -1,5 +1,5 @@
 @font-face {
   font-family: 'Ilisarniq';
   src: url('Ilisarniq-Regular.woff2') format('woff2');
-  font-kerning: normal;
+  font-feature-settings: 'kern' 1;
 }
