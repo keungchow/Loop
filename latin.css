@@ -2,21 +2,24 @@
   font-family: 'Ilisarniq';
   src: url('Ilisarniq-Regular.woff2') format('woff2');
 }
-.page {
-  font-feature-settings: 'kern';
+.page.text.font {
+  font-feature-settings: 'kern' 1;
 }
 .menu.font {
-  font-feature-settings: 'kern';
+  font-feature-settings: 'kern' 1;
 }
 .link.font {
-  font-feature-settings: 'kern';
+  font-feature-settings: 'kern' 1;
 }
 .blog.title.font {
-  font-feature-settings: 'kern';
+  font-feature-settings: 'kern' 1;
 }
 .blog.description.font {
-  font-feature-settings: 'kern';
+  font-feature-settings: 'kern' 1;
 }
 .post.title.font {
-  font-feature-settings: 'kern';
+  font-feature-settings: 'kern' 1;
+}
+.article-content {
+  font-feature-settings: 'kern' 1;
 }
