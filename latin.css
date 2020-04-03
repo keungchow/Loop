@@ -2,21 +2,21 @@
   font-family: 'Ilisarniq';
   src: url('Ilisarniq-Regular.woff2') format('woff2');
 }
-'page.text.font' {
+.page.text.font {
   font-feature-settings: 'kern';
 }
-#menu.font {
+.menu.font {
   font-feature-settings: 'kern';
 }
-'link.font' {
+.link.font {
   font-feature-settings: 'kern';
 }
-'blog.title.font' {
+.blog.title.font {
   font-feature-settings: 'kern';
 }
-'blog.description.font' {
+.blog.description.font {
   font-feature-settings: 'kern';
 }
-'post.title.font' {
+.post.title.font {
   font-feature-settings: 'kern';
 }
